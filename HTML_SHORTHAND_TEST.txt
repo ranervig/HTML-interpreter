@@ -1,0 +1,24 @@
+*TI A Page about cats
+*// HTML Group 1, CIS164, April 2021
+*H1 Cats are more than just cute!
+*IM cat1b.jpg
+*BR
+*PG The domestic cat (Felis silvestris catus or Felis catus)is a small, typically furry, carnivorous mammal. They are often
+*PG called house cats when kept as indoor pets or simply cats when there is no need to distinguish them from other felids and
+*PG felines. They are often valued by humans for companionship and for their ability to hunt vermin. There are more than 
+*PG seventy cat breeds recognized by various cat registries.
+*BR
+*H2 Cats as Hunters
+*BR
+*PG Cats are similar in anatomy to the other felids, with a strong flexible body, quick reflexes, sharp retractable claws and
+*PG teeth adapted to killing small prey. Cat senses fit a crepuscular and predatory ecological niche. Cats can hear sounds too
+*PG faint or too high in frequency for human ears, such as those made by mice and other small animals. They can see in 
+*EM near darkness.
+*IM cat2.jpg
+*BR
+*H3 Different types of cats
+*BR
+*OL Russian Blue, Persain, Ragdoll, Standard Black
+*PG For more on cats:
+*AH HTTPS://en.wikipedia.ord/wiki/cat, check out the Wikipedia page on cats.
+
