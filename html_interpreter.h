@@ -1,6 +1,6 @@
 //  Created by Syed Rehman on 4/8/21.
 //  Class: Advanced C++ CIS 164
-//  Description: This file defines the interpreter class for the HTML Interpreter program.
+//  Description: This file defines the interpreter function for the HTML Interpreter program.
 
 #pragma once
 
