@@ -1,3 +1,9 @@
+/*******************************
+ *Title: HTML interpreter
+ *Create on: 2021-04-11
+ *Description: A program that takes a short hard version of HTML written in a doc and then reads it and converts it to real HTML
+ *********************************/
+
 #include <iostream>
 #include <fstream>
 #include <deque>
@@ -16,6 +22,7 @@ int main() {
     
     deque<string> convertedDeque = htmlInterpreter(inputDeque);
     
+    ///we will want to have this write to an HTML doc in the next step - Brogan
     while (!convertedDeque.empty()) {
         cout << convertedDeque.front() << endl;
         convertedDeque.pop_front();
