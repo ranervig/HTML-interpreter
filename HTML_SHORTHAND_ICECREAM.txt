@@ -1,0 +1,12 @@
+*TI New Ice Cream Flavor
+*// Joe Struss, jastruss@dmacc.edu, Oct. 1, 2021
+*H1 Tutti Fruity Ice Cream
+*PG Teddy’s ice cream introduces a new flavor
+*ST Tutti Fruiti Ice Cream which joins our list of other flavors
+*OL Chocolate Vanilla Peach
+*PG Available at our stores starting Oct. 1st.
+*EM It will taste delicious!
+*BR
+*AH  https://www.teddysicecream.com Teddy’s Ice Cream
+*BR
+*AH info.html More info on Teddy’s Ice Cream.
